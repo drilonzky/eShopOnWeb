@@ -9,7 +9,7 @@ env:
   LOCATION: southeastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9e631c9b-537f-43d2-a7d8-79d6803195b2
-  WEBAPP-NAME: eshoponweb-webapp-leandro
+  WEBAPP-NAME: demo
 
 jobs:
   #Build, test and publish .net web project in repository
